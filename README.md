@@ -1,4 +1,4 @@
-#Alien Catch Game<br />
+# Alien Catch Game<br />
 A game where you catch small alien like thingies, as an alien. <br />
 Watch out for the bombs!
 ![Alien1](https://github.com/user-attachments/assets/049e2294-a0f6-4052-87ae-bfe555124e84)
